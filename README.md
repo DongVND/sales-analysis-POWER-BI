@@ -21,8 +21,9 @@ The profitability dashboards highlight significant differences in performance ac
 
 •	**Segment Profitability**: The **Government segment** was the most profitable, generating **$11.4 million** in profit. In contrast, the **Enterprise segment** had a **negative profit of -$0.6 million**, indicating that sales in this segment were not profitable and were likely sacrificing profit for volume.
 
-•	Product Profitability: Paseo was the leading product in terms of profitability. The Velo and Montana products, while contributing to sales, were performing poorly in some countries, particularly in Mexico, where their sales were nearly half of what they were in other countries.
-•	Geographic Profitability: Germany, France, and Canada had the highest profit margins, while USA and Mexico had lower margins. This suggests that while Mexico may not be a major driver of sales, it is highly profitable at 14% margin, compared to the USA which only has a margin of 12%.
+•	**Product Profitability**: **Paseo** was the leading product in terms of profitability. The **Velo and Montana** products, while contributing to sales, were **performing poorly in some countries**, particularly in **Mexico**, where their sales were nearly half of what they were in other countries.
+
+•	**Geographic Profitability**: **Germany, France, and Canada** had the **highest profit margins**, while USA and Mexico had lower margins. This suggests that while **Mexico** may not be a major driver of sales, it is **highly profitable at 14% margin**, compared to the USA which only has a margin of 12%.
 
 ## RECOMMENDATIONS
 To improve overall profitability, it is recommended to investigate the root causes of the negative profit in the Enterprise segment. Additionally, a deeper analysis into the performance of Velo and Montana in different regions could help uncover strategies to improve their sales and profitability in underperforming markets like Mexico.
