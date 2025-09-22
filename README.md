@@ -3,7 +3,7 @@
 Based on the provided financial data from September 2013 to December 2014, this report is a summary of the key findings regarding sales and profitability.
 
 ## OVERALL PERFORMANCE
-The total sales for the period amounted to **$118.73 million**, with 1.13 million units sold, generating a total profit of $16.89 million. The dashboards show a clear spike in sales in the last three months of the year. The **average month-over-month sales growth** was **17.53%**, and the overall **profit margin** was **14.23%**.
+The total sales for the period amounted to **$118.73 million**, with 1.13 million units sold, generating a total profit of **$16.89 million**. The dashboards show a clear spike in sales in the last three months of the year. The **average month-over-month sales growth** was **17.53%**, and the overall **profit margin** was **14.23%**.
 
 ## SALES ANALYSIS
 The sales spikes observed in late 2014 were largely driven by the **Enterprise and Government segments**. These segments saw a significant increase in sales volume.
@@ -14,7 +14,7 @@ The sales spikes observed in late 2014 were largely driven by the **Enterprise a
 
 •	**Discount Band**: A higher proportion of sales during the spike was associated with a **Low discount band**, suggesting that the increase was not due to heavy discounting but rather strong demand.
 
-•	**Geographic Performance**: The sales spikes were most prominent in Canada, France, and Germany.
+•	**Geographic Performance**: The sales spikes were most prominent in **Canada, France, and Germany**.
 
 ## PROFITABILITY ANALYSIS
 The profitability dashboards highlight significant differences in performance across segments, products, and countries.
